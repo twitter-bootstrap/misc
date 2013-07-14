@@ -1,0 +1,20 @@
+{
+  "name": "misc",
+  "repo": "twitter-bootstrap/misc",
+  "description": "Lightweight utility components.",
+  "version": "0.0.0",
+  "keywords": [
+    "twitter",
+    "bootstrap",
+    "misc",
+    "well"
+  ],
+  "dependencies": {
+    "twitter-bootstrap/core": "*"
+  },
+  "development": {},
+  "license": "Apache",
+  "styles": [
+    "misc.css"
+  ]
+}
